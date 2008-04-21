@@ -13,10 +13,10 @@ Converts the theme editor and plugin editor text areas in the admin panel to syn
 
 == Installation ==
 
-Unzip into 'wp-content/plugins'
-Download CodePress from http://www.codepress.org/
-Unzip into 'wp-content/plugins/wp-codepress'
-Now you should have 'codepress' directory under 'wp-content/plugins/wp-codepress'
-Activate
+1. Unzip into 'wp-content/plugins'
+1. Download CodePress from http://www.codepress.org/
+1. Unzip into 'wp-content/plugins/wp-codepress'
+1. Now you should have 'codepress' directory under 'wp-content/plugins/wp-codepress'
+1. Activate
 
 If you want to change the styles, edit codepress/languages/*.css
