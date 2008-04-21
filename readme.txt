@@ -20,3 +20,8 @@ Converts the theme editor and plugin editor text areas in the admin panel to syn
 1. Activate
 
 If you want to change the styles, edit codepress/languages/*.css
+
+== Screenshots ==
+
+1. Editing a style sheet
+2. Editing a PHP file
